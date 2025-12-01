@@ -1,7 +1,6 @@
 ### Hi, I'm Angel! 
 
-🧬 Bioinformatics Analyst & Biomedical Researcher analyzing biological data using Python and R <br/>
-🎓 Graduated with a Bachelor of Science in Healthcare Studies, Pre-Medicine from The University of Texas at Dallas <br/>
+🧬 Biomedical Student analyzing biological data using Python and currently learning R for my ALS + Tubulin Glutamylation Double Mutant Research Project <br/>
+🎓 Graduated with a Bachelor of Science in Healthcare Studies, Pre-Medicine from The University of Texas at Dallas. Now enrolled in the Biomedical Research Certificate Program at BC <br/>
 💭 Currently working on a Bulk RNA-Sequencing Project identifying differentially expressed genes in dexamethasone treated human airway cells, stay tuned! <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelmalhotra&show_icons=true&theme=dracula)
